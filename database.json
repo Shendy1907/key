@@ -1,7 +1,10 @@
 {
   "users": [
     {
-      "password": "cendoel"
+      "username": "cendoel"
+    },
+    {
+      "password": "123"
     }
   ]
 }
